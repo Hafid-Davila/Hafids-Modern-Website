@@ -12,4 +12,6 @@ Like I said before both of this projects are a work in progress and I don't know
  *(Update: 11/08/2022)* 
  So far I have worked with:
  - HTML DIVs
- - The Box Model of Website Styling 
+ - The Box Model of Website CSS Styling 
+ <br>
+ Check out my website 👉 [CLICK HERE](https://hafid-davila.github.io/My-Modern-Website/)
