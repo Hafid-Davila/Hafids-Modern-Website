@@ -2,6 +2,20 @@ body {
   margin: 0;
 }
 
+h1 {
+  color: #EEEEEE;
+  margin-top: 0;
+  display: inline-block;
+  margin-left: 500px;
+}
+
+p {
+  color: #EEEEEE;
+  display: inline;
+  margin-left: 712px;
+}
+
+
 .top-container {
   background-color: #393E46;
 }
