@@ -1,18 +1,17 @@
 body {
   margin: 0;
+  text-align: center;
 }
 
 h1 {
   color: #EEEEEE;
-  margin-top: 0;
-  display: inline-block;
-  margin-left: 500px;
+  width: 20%;
+  margin: 0 auto;
 }
 
 p {
   color: #EEEEEE;
-  display: inline;
-  margin-left: 712px;
+
 }
 
 
@@ -30,13 +29,4 @@ p {
   background-color: #222831;
   height: 200px;
   width: 200px;
-}
-
-h1 {
-  color: #EEEEEE;
-  margin-top: 0;
-}
-
-p {
-  color: #EEEEEE;
 }
