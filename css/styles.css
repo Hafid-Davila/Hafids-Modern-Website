@@ -11,12 +11,12 @@ h1 {
 
 p {
   color: #EEEEEE;
-
 }
-
 
 .top-container {
   background-color: #393E46;
+  position: relative;
+  padding-top: 50px;
 }
 
 .middle-container {
@@ -29,4 +29,16 @@ p {
   background-color: #222831;
   height: 200px;
   width: 200px;
+}
+
+.astronaut-img {
+  position: absolute;
+  right: 350px;
+  bottom: 100px;
+}
+
+.laptop-img {
+  position: relative;
+  right: 300px;
+  bottom: 100px;
 }
