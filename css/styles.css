@@ -1,12 +1,14 @@
 body {
   margin: 0;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
   color: #EEEEEE;
-  width: 20%;
+  width: 30%;
   margin: 0 auto;
+  font-family: 'Syne Mono', monospace;
 }
 
 p {
@@ -37,8 +39,8 @@ p {
   bottom: 100px;
 }
 
-.laptop-img {
+.programmer {
   position: relative;
-  right: 300px;
+  right: 325px;
   bottom: 100px;
 }
