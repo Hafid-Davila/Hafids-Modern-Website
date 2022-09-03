@@ -1,6 +1,7 @@
 body {
   margin: 0;
   text-align: center;
+  background-color: #393E46;
   font-family: 'Merriweather', serif;
 }
 
@@ -17,9 +18,8 @@ p {
 }
 
 .top-container {
-  background-color: #393E46;
   position: relative;
-  padding-top: 50px;
+  padding-top: 100px;
 }
 
 .middle-container {
