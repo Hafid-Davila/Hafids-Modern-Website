@@ -17,6 +17,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.875rem;
   font-weight: normal;
+
 }
 
 h3 {
@@ -28,16 +29,16 @@ p {
   font-family: 'Montserrat', sans-serif;
 }
 
+.contact-me {
+  color: #F1F1F1
+}
+
 .profile {
   color: #F1F1F1;
 }
 
 .skills {
   color: #F1F1F1;
-}
-
-.contact-me {
-  color: #F1F1F1
 }
 
 .top-container {
@@ -51,16 +52,21 @@ p {
 .bottom-container {
 }
 
-/*
-.astronaut-img {
-  position: absolute;
-  right: 350px;
-  bottom: 100px;
+.skill-row {
+  width: 60%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
 }
 
-.programmer {
-  position: relative;
-  right: 325px;
-  bottom: 100px;
+.webDev {
+  width: 35%;
+  float: left;
+  margin-right: 20px;
 }
-*/
+
+.cameraOperator {
+  width: 35%;
+  float: right;
+  margin-left: 20px;
+}
