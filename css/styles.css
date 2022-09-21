@@ -24,6 +24,10 @@ h3 {
   color: #F1F1F1;
 }
 
+hr {
+  margin-bottom: 100px;
+}
+
 p {
   color: #F1F1F1;
   font-family: 'Montserrat', sans-serif;
@@ -35,6 +39,10 @@ p {
 
 .profile {
   color: #F1F1F1;
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  line-height: 2;
 }
 
 .skills {
